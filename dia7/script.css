@@ -1,0 +1,38 @@
+.container-nav {
+    display: flex;
+    padding: 10px;
+    height: 50px;
+    background-color: black;
+}
+.navbar {
+    display:flex
+    justify-content: space-between;
+    width:100%;
+}
+.brand {
+    display: flex;
+    alingn-items: center
+}
+li>a {
+    list-style-type: none;
+}
+li {
+    list-style-type: none;
+}
+a {
+    color: white;
+    text-decoration:none;
+}
+.nav-lincks {
+    display: flex;
+    align-items: center;
+}
+.button-menu-toggle{
+    display: none;
+}
+ul {
+    display: flex;
+    padding: 10px;
+    height: 50px;
+    background-color: rgb(181, 127, 127);
+}
